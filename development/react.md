@@ -16,9 +16,9 @@ function Exemple() {
 
   return (
     <div>
-      <Button type='button' onClick={handleOpen}>
+      <button type='button' onClick={handleOpen}>
         Open it !
-      </Button>
+      </button>
     </div>
   );
 }
