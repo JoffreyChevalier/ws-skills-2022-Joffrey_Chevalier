@@ -8,7 +8,10 @@
 
 - les `structures` de base du langage ❌ / ✔️
 - les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
+- l'utilisation de l'`asynchrone` ✔️
+
+  const data = async () => { await getApiData() }
+
 - les spécifités du mot-clef `this` ❌ / ✔️
 
 ## 💻 Je code en Javascript
@@ -60,4 +63,3 @@ Résolution :
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️
-
