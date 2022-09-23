@@ -6,8 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+  L'autocompletion quasi magique
+
+- les types de bases ✔️
+  number, string, bollean, string[]
+
 - comment et pourquoi étendre une interface ❌ / ✔️
 - les classes et les decorators ❌ / ✔️
 
@@ -17,9 +21,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](https://github.com/JoffreyChevalier/wilder)
 
-Description :
+Description : Projet fil rouge Alternance
 
 ### Utilisation en production si applicable❌ / ✔️
 
@@ -35,8 +39,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- https://api.daily.dev/devcards/e8980e938a4e4e50b92aa7dc13f872b0.png?r=r13
+- Utilisation journaliere de l'extension Chrome daily.dev qui permet d'acceder à fil d'actus Dev.
 
 ## 🚧 Je franchis les obstacles
 

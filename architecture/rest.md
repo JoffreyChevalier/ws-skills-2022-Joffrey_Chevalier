@@ -6,10 +6,30 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
+- les verbes HTTP ✔️
+  GET / POST / PATCH / PUT / DELETE
+
+- les statuts HTTP ✔️
+  1xx : Informatif
+  100 (Continue)
+
+  2xx : Succes
+  201 (Created)
+
+  3xx : Redirection
+  302 (Found)
+
+  4xx : Erreur Client
+  404 (Not Found)
+
+  5xx : Erreur Serveur
+  503 (Service Unavailable)
+
+- les endpoints ✔️
+  https://www.toto.com/tutu/1
+
+- CORS ❌
+
 - la nomenclature recommandée pour les routes ❌ / ✔️
 
 ## 💻 J'utilise
@@ -18,15 +38,15 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](https://github.com/JoffreyChevalier/wilder)
 
-Description :
+Description : Projet fil rouge Alternance
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
+[lien du projet](https://github.com/JoffreyChevalier/Knock-Knock)
 
-Description :
+Description : Projet 3 de la formation Dev web 5 mois
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
@@ -36,8 +56,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- https://api.daily.dev/devcards/e8980e938a4e4e50b92aa7dc13f872b0.png?r=r13
+- Utilisation journaliere de l'extension Chrome daily.dev qui permet d'acceder à fil d'actus Dev.
 
 ## 🚧 Je franchis les obstacles
 

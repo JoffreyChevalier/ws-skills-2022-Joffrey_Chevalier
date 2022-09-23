@@ -6,9 +6,13 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
+- l'initialisation d'un projet ✔️
+  git init
+
+- travailler avec des branches ✔️
+  git checkout -b new-branch
+
+- faire une PR ✔️
 - utiliser git rebase pour faire des commits propres ❌ / ✔️
 - utiliser les gitHub actions ❌ / ✔️
 
